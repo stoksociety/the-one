@@ -1,0 +1,54 @@
+h1{
+    color: rgb(182, 13, 182);
+    float:none;
+
+}
+h2{
+    color: rgb(0, 255, 200);
+    background-color: khaki;
+    float:left
+    
+}
+.animes{
+    color: rgb(13, 230, 201);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    background-color: lightcoral;
+padding: 25px;
+border: 15px solid pink;
+    
+}
+.spurs{
+    background-color: blueviolet;
+    
+    width: auto;
+    float:right;
+    padding: 25px;
+    border-color: 20px salmon;
+}
+h3{
+    color: rgb(0, 255, 242);
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgba(233, 34, 216, 0.856);
+    
+
+}
+h4{
+    color: crimson;
+    text-align: justify;
+    text-decoration-color: firebrick;
+    float:left;
+}
+.tott{
+    color: navy;
+    text-align: left;
+    font-style: italic;
+    background-color: red;
+
+
+}
+
+.spurs{
+    color: navy;
+}
